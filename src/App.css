@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Samsung'; 
+    src: url('./src/fonts/samsungsharpsans.otf') format('opentype'); 
+    font-weight: normal; 
+    font-style: normal; 
+}
+
+* {
+    margin: 0;
+    font-family: 'Samsung', sans-serif; 
+    padding: 0;
+}
